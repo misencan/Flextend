@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246946298193",
+    "project_id": "flextend-c4648",
+    "storage_bucket": "flextend-c4648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246946298193:android:463f62020e544bb8d6fb70",
+        "android_client_info": {
+          "package_name": "com.flextend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246946298193-ejv19h4feb6g5ij22svmhgtfdpuh0ft9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Xvm1G0gNoXtfxi0ievt3mKnteWkTlBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246946298193-ejv19h4feb6g5ij22svmhgtfdpuh0ft9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
